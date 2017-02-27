@@ -1,0 +1,4 @@
+./getPrice.rb -r	=> reset thetas
+./getPrice.rb -g	=> run with graphical interface
+
+./train.rb -i		=> run the trainer and set the number of iterations for gradient descent
